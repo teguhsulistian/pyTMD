@@ -1,0 +1,49 @@
+{
+    "elevation": {
+        "INATIDES": {
+            "format": "FES-netcdf",
+            "model_file": [
+                "INATIDES/2n2.nc",
+                "INATIDES/eps2.nc",
+                "INATIDES/j1.nc",
+                "INATIDES/k1.nc",
+                "INATIDES/k2.nc",
+                "INATIDES/l2.nc",
+                "INATIDES/lambda2.nc",
+                "INATIDES/m2.nc",
+                "INATIDES/m3.nc",
+                "INATIDES/m4.nc",
+                "INATIDES/m6.nc",
+                "INATIDES/m8.nc",
+                "INATIDES/mf.nc",
+                "INATIDES/mks2.nc",
+                "INATIDES/mm.nc",
+                "INATIDES/mn4.nc",
+                "INATIDES/ms4.nc",
+                "INATIDES/msf.nc",
+                "INATIDES/msqm.nc",
+                "INATIDES/mtm.nc",
+                "INATIDES/mu2.nc",
+                "INATIDES/n2.nc",
+                "INATIDES/n4.nc",
+                "INATIDES/nu2.nc",
+                "INATIDES/o1.nc",
+                "INATIDES/p1.nc",
+                "INATIDES/q1.nc",
+                "INATIDES/r2.nc",
+                "INATIDES/s1.nc",
+                "INATIDES/s2.nc",
+                "INATIDES/s4.nc",
+                "INATIDES/sa.nc",
+                "INATIDES/ssa.nc",
+                "INATIDES/t2.nc"
+            ],
+            "name": "INATIDES",
+            "reference": "None",
+            "scale": 0.01,
+            "type": "z",
+            "variable": "tide_ocean",
+            "version": "INATIDES"
+        }
+    }
+}
